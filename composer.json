@@ -1,5 +1,5 @@
 {
-    "name": "tmihalicka/configuration-handler",
+    "name": "pixelfederation/configuration-handler",
     "description": "Composer script for handling parametrized configurations.",
     "keywords": [
         "configuration",
@@ -13,7 +13,7 @@
     "authors": [
         {
             "name": "Tomas Mihalicka",
-            "email": "tomas@mihalicka.com"
+            "email": "tmihalicka@pixelfederation.com"
         }
     ],
     "require": {
