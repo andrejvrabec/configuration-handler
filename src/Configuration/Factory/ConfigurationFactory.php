@@ -5,7 +5,7 @@ namespace Pixelfederation\ConfigurationHandler\Configuration\Factory;
 use JMS\Serializer\Serializer;
 use JMS\Serializer\SerializerBuilder;
 use JMS\Serializer\SerializerInterface;
-use TMihalicka\ConfigurationHandler\Configuration\Configuration;
+use Pixelfederation\ConfigurationHandler\Configuration\Configuration;
 
 /**
  * Class ConfigurationFactory

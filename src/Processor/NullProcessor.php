@@ -2,11 +2,11 @@
 
 namespace Pixelfederation\ConfigurationHandler\Processor;
 
-use TMihalicka\ConfigurationHandler\Processor\Common\ProcessorInterface;
+use Pixelfederation\ConfigurationHandler\Processor\Common\ProcessorInterface;
 
 /**
  * Class NullProcessor
- * @package TMihalicka\ConfigurationHandler\Processor\Factory
+ * @package Pixelfederation\ConfigurationHandler\Processor\Factory
  */
 final class NullProcessor extends AbstractProcessor implements ProcessorInterface
 {

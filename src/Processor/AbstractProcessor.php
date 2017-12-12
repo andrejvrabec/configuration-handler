@@ -4,7 +4,7 @@ namespace Pixelfederation\ConfigurationHandler\Processor;
 
 use Composer\IO\IOInterface;
 use RuntimeException;
-use TMihalicka\ConfigurationHandler\Configuration\Configuration;
+use Pixelfederation\ConfigurationHandler\Configuration\Configuration;
 
 /**
  * Class AbstractProcessor

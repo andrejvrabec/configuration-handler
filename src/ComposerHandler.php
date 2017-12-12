@@ -4,8 +4,8 @@ namespace Pixelfederation\ConfigurationHandler;
 
 use Assert\Assertion;
 use Composer\Script\Event;
-use TMihalicka\ConfigurationHandler\Configuration\Factory\ConfigurationFactory;
-use TMihalicka\ConfigurationHandler\Processor\Factory\ProcessorFactory;
+use Pixelfederation\ConfigurationHandler\Configuration\Factory\ConfigurationFactory;
+use Pixelfederation\ConfigurationHandler\Processor\Factory\ProcessorFactory;
 use Doctrine\Common\Annotations\AnnotationRegistry;
 
 /**
@@ -25,7 +25,7 @@ final class ComposerHandler
      *
      * @throws \InvalidArgumentException
      * @throws \Assert\AssertionFailedException
-     * @throws \TMihalicka\ConfigurationHandler\Processor\Exception\InvalidProcessorTypeException
+     * @throws \Pixelfederation\ConfigurationHandler\Processor\Exception\InvalidProcessorTypeException
      */
     public static function buildConfigurationParameters(Event $event)
     {

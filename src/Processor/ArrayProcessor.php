@@ -3,9 +3,9 @@
 namespace Pixelfederation\ConfigurationHandler\Processor;
 
 use RuntimeException;
-use TMihalicka\ConfigurationHandler\Processor\Common\ProcessorInterface;
-use TMihalicka\ConfigurationHandler\Processor\Exception\DistFileNotFoundException;
-use TMihalicka\ConfigurationHandler\Processor\Exception\InvalidArgumentException;
+use Pixelfederation\ConfigurationHandler\Processor\Common\ProcessorInterface;
+use Pixelfederation\ConfigurationHandler\Processor\Exception\DistFileNotFoundException;
+use Pixelfederation\ConfigurationHandler\Processor\Exception\InvalidArgumentException;
 
 /**
  * Class ArrayProcessor

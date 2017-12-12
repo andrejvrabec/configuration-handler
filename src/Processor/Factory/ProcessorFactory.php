@@ -3,16 +3,16 @@
 namespace Pixelfederation\ConfigurationHandler\Processor\Factory;
 
 use Composer\IO\IOInterface;
-use TMihalicka\ConfigurationHandler\Configuration\Factory\ConfigurationFactory;
-use TMihalicka\ConfigurationHandler\Processor\ArrayProcessor;
-use TMihalicka\ConfigurationHandler\Processor\Exception\InvalidProcessorTypeException;
-use TMihalicka\ConfigurationHandler\Processor\Common\ProcessorInterface;
-use TMihalicka\ConfigurationHandler\Processor\NullProcessor;
+use Pixelfederation\ConfigurationHandler\Configuration\Factory\ConfigurationFactory;
+use Pixelfederation\ConfigurationHandler\Processor\ArrayProcessor;
+use Pixelfederation\ConfigurationHandler\Processor\Exception\InvalidProcessorTypeException;
+use Pixelfederation\ConfigurationHandler\Processor\Common\ProcessorInterface;
+use Pixelfederation\ConfigurationHandler\Processor\NullProcessor;
 
 /**
  * Class ProcessorFactory
  *
- * @package TMihalicka\ConfigurationHandler
+ * @package Pixelfederation\ConfigurationHandler
  */
 class ProcessorFactory
 {
@@ -49,7 +49,7 @@ class ProcessorFactory
      *
      * @return ProcessorInterface
      *
-     * @throws \TMihalicka\ConfigurationHandler\Processor\Exception\InvalidProcessorTypeException
+     * @throws \Pixelfederation\ConfigurationHandler\Processor\Exception\InvalidProcessorTypeException
      */
     public function getProcessor(array $configuration)
     {

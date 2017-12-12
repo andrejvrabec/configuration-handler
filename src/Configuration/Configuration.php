@@ -2,7 +2,7 @@
 
 namespace Pixelfederation\ConfigurationHandler\Configuration;
 
-use TMihalicka\ConfigurationHandler\Processor\Common\ProcessorInterface;
+use Pixelfederation\ConfigurationHandler\Processor\Common\ProcessorInterface;
 use JMS\Serializer\Annotation as Serializer;
 
 /**
