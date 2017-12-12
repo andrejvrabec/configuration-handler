@@ -13,7 +13,7 @@ use Doctrine\Common\Annotations\AnnotationRegistry;
  */
 final class ComposerHandler
 {
-    const COMPOSER_PARAMETER_KEY = 'tmihalicka-params';
+    const COMPOSER_PARAMETER_KEY = 'pixelfederation-params';
 
     /**
      * Build Parameters from composer configuration and replace this parameters
