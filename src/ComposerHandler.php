@@ -1,6 +1,6 @@
 <?php
 
-namespace TMihalicka\ConfigurationHandler;
+namespace Pixelfederation\ConfigurationHandler;
 
 use Assert\Assertion;
 use Composer\Script\Event;

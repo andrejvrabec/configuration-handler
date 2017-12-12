@@ -1,6 +1,6 @@
 <?php
 
-namespace TMihalicka\ConfigurationHandler\Configuration;
+namespace Pixelfederation\ConfigurationHandler\Configuration;
 
 /**
  * Class EnvMap

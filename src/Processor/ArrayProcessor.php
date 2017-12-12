@@ -1,6 +1,6 @@
 <?php
 
-namespace TMihalicka\ConfigurationHandler\Processor;
+namespace Pixelfederation\ConfigurationHandler\Processor;
 
 use RuntimeException;
 use TMihalicka\ConfigurationHandler\Processor\Common\ProcessorInterface;

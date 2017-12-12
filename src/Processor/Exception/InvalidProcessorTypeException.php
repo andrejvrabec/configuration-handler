@@ -1,6 +1,6 @@
 <?php
 
-namespace TMihalicka\ConfigurationHandler\Processor\Exception;
+namespace Pixelfederation\ConfigurationHandler\Processor\Exception;
 
 use InvalidArgumentException;
 

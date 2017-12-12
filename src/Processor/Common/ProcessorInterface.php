@@ -1,6 +1,6 @@
 <?php
 
-namespace TMihalicka\ConfigurationHandler\Processor\Common;
+namespace Pixelfederation\ConfigurationHandler\Processor\Common;
 
 /**
  * Interface ProcessorInterface

@@ -1,6 +1,6 @@
 <?php
 
-namespace TMihalicka\ConfigurationHandler\Processor;
+namespace Pixelfederation\ConfigurationHandler\Processor;
 
 use Composer\IO\IOInterface;
 use RuntimeException;

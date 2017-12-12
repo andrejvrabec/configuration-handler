@@ -1,6 +1,6 @@
 <?php
 
-namespace TMihalicka\ConfigurationHandler\Processor\Factory;
+namespace Pixelfederation\ConfigurationHandler\Processor\Factory;
 
 use Composer\IO\IOInterface;
 use TMihalicka\ConfigurationHandler\Configuration\Factory\ConfigurationFactory;

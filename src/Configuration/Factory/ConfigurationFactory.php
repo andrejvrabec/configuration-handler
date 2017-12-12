@@ -1,6 +1,6 @@
 <?php
 
-namespace TMihalicka\ConfigurationHandler\Configuration\Factory;
+namespace Pixelfederation\ConfigurationHandler\Configuration\Factory;
 
 use JMS\Serializer\Serializer;
 use JMS\Serializer\SerializerBuilder;
