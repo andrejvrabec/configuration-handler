@@ -1,5 +1,5 @@
 {
-    "name": "pixelfederation/configuration-handler",
+    "name": "andrejvrabec/configuration-handler",
     "description": "Composer script for handling parametrized configurations.",
     "keywords": [
         "configuration",
@@ -8,7 +8,7 @@
         "composer",
         "plugin"
     ],
-    "homepage": "https://github.com/pixelfederation/configuration-handler",
+    "homepage": "https://github.com/andrejvrabec/configuration-handler",
     "license": "MIT",
     "authors": [
         {
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pixelfederation\\ConfigurationHandler\\": "src/"
+            "TMihalicka\\ConfigurationHandler\\": "src/"
         }
     }
 }
